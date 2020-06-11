@@ -11,7 +11,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<div style="display:flex">
+<div align="center">
 <a href="https://github.com/lucasomac">
 <img alt="Autor" src="https://img.shields.io/badge/autor-Lucas de Oliveira Macedo-7159c1?style=flat-square">
 </a>
