@@ -1,4 +1,4 @@
-<img style="horiz-align:center" src="assets_readme/logo-git.png" alt="Logo">
+<img style="align-content:center" src="assets_readme/logo-git.png" alt="Logo">
 
 # Template README para uso em repositórios do GitHub
 
