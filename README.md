@@ -3,7 +3,13 @@
 </h1>
 
 # Template README para uso em repositórios do GitHub
-
+<p style="align-content:center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 > Aqui deve ser descrito rapidamente de onde veio o projeto e linkar de onde o mesmo veio <a href="#">clique aqui</a>.
 
 <div style="display:flex">
@@ -39,20 +45,9 @@
 
 <hr/>
 
-## 💡 Sobre o projeto:
+## 💻 Projeto
 
 Este projeto foi desenvolvido com o intuito de ajudar no momente de criação do arquivo README para repositórios no Github. Desta forma é possivel termos um README padrão e pré customizado para os nossos repositórios
-
-## 🔥 O que aprendemos?
-
-Através dessa aplicação pratiquei mais sobre:
-
-- Uso do React
-- Uso do TypeScript
-- Usar a biblioteca Styled Components para estilização
-- Criação de aplicações responsivas
-- Prática em criação de landing pages
-- Uso de conventional commits
 
 ## ⚙️ Tecnologias
 
@@ -84,18 +79,6 @@ De o clone no repositório:
 
 ```bash
 $ git clone https://github.com/lucasomac/ReadmeTemplate.git
-```
-
-Execute esse comando na raiz do projeto para baixar as dependências:
-
-```bash
-yarn
-```
-
-Logo depois para executar execute:
-
-```bash
-yarn start
 ```
 
 <br/>
