@@ -9,7 +9,7 @@ Template README para uso em repositórios do GitHub
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#licença">Licença</a>
 </p>
 
 <div align="center">
@@ -43,9 +43,9 @@ Template README para uso em repositórios do GitHub
 </div>
 
 <br/><br/>
-<blockquote align="center">
+<p align="center">
   Template open-source, contribua você também 😃
-</blockquote>
+</p>
 
 <hr/>
 
@@ -85,11 +85,27 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 ## 🏁 Executar esse projeto:
 
 Para executar esse projeto em sua máquina,
-De o clone no repositório:
+clone no repositório:
 
 ```bash
 $ git clone https://github.com/lucasomac/ReadmeTemplate.git
 ```
+#### ⚒ Back-End
+Run ```yarn install``` in the server folder;
+Run ```yarn run server``` to up the server;
+Open Insomnia or Postman and import the Insomnia.json workspace file at backend folder.
+
+#### 🌐 Front-End
+Run ```yarn install``` in the web folder;
+Run ```yarn start``` to up the project;
+
+#### 📲 Mobile
+Run ```npm install``` in the mobile folder
+Update the baseURL at ```src/services/api.js```.
+Run ```expo start``` to up the project.
+
+## 📜 Licença:
+
 
 <h4 align="center" >
   Compartilhar conhecimento é sempre bom!!!
