@@ -9,7 +9,7 @@ Template README para uso em repositórios do GitHub
   <a href="#-tecnologias">Tecnologias</a> | 
   <a href="#-ferramentas">Ferramentas</a> | 
   <a href="#-como-contribuir">Como contribuir</a> | 
-  <a href="#-executar-esse-projeto">Como contribuir</a> | 
+  <a href="#-executar-esse-projeto">Executar esse projeto</a> | 
   <a href="#-licença">Licença</a>
 </p>
 
