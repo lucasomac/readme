@@ -100,13 +100,19 @@ $ git clone https://github.com/lucasomac/ReadmeTemplate.git
 Autor: <a alt="Lucas de Oliveira Macedo" href="https://github.com/lucasomac">Lucas de Oliveira Macedo</a>
 </h3>
 
-<div style="display:flex">
+<div align="center">
 
   <a alt="Lucas de Oliveira Macedo Linkedin" href="https://www.linkedin.com/in/lucasomac/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas de Oliveira Macedo-blue?logo=linkedin"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas de Oliveira Macedo-blue?logo=linkedin"/>
+  </a>
   <a alt="Lucas de Oliveira Macedo GitHub" href="https://github.com/lucasomac">
-  <img src="https://img.shields.io/badge/GitHub-lucasomac-lightgrey?logo=github"/></a>
+  <img src="https://img.shields.io/badge/GitHub-lucasomac-lightgrey?logo=github"/>
+  </a>
  <a alt="Lucas de Oliveira Macedo Twitter" href="https://twitter.com/lucasomac">
-  <img src="https://img.shields.io/badge/Twitter-_lucasomac-blue?logo=twitter"/></a>
+  <img src="https://img.shields.io/badge/Twitter-_lucasomac-blue?logo=twitter"/>
+ </a>
+ <a alt="Lucas de Oliveira Macedo Instagram" href="https://instagram.com/lucasomac">
+  <img src="https://img.shields.io/badge/Instragram-lucasomac-E10979?logo=instagram"/>
+ </a>
 
 </div>
