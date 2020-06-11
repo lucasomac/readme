@@ -36,6 +36,10 @@ Template README para uso em repositórios do GitHub
 <a href="https://github.com/lucasomac/ReadmeTemplate/commits/master">
 <img alt="Commits" src="https://img.shields.io/github/last-commit/lucasomac/ReadmeTemplate?color=920629&style=flat-square">
 </a>
+<a href="https://github.com/lucasomac/ReadmeTemplate/releases">
+<img alt="Commits" src="https://img.shields.io/github/downloads/lucasomac/ReadmeTemplate/total?color=920629&style=flat-square">
+</a>
+
 </div>
 
 <br/><br/>
