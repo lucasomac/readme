@@ -1,8 +1,9 @@
 <h1 align="center">
     <img alt="git" title="git" src="assets_readme/logo.png" width="500px" />
 </h1>
-
-# Template README para uso em repositórios do GitHub
+<h1 align="center">
+Template README para uso em repositórios do GitHub
+</h1>
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -113,6 +114,9 @@ Autor: <a alt="Lucas de Oliveira Macedo" href="https://github.com/lucasomac">Luc
  </a>
  <a alt="Lucas de Oliveira Macedo Instagram" href="https://instagram.com/lucasomac">
   <img src="https://img.shields.io/badge/Instragram-lucasomac-E10979?logo=instagram"/>
+ </a>
+ <a alt="Lucas de Oliveira Macedo Instagram" href="https://facebook.com/lucasomac">
+  <img src="https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook&"/>
  </a>
 
 </div>
