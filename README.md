@@ -51,7 +51,7 @@ Template README para uso em repositórios do GitHub
 
 ## 💻 Projeto
 
-Este projeto foi desenvolvido com o intuito de ajudar no momente de criação do arquivo README para repositórios no Github. Desta forma é possivel termos um README padrão e pré customizado para os nossos repositórios
+Este projeto foi desenvolvido com o intuito de ajudar no momento de criação do arquivo README para repositórios no Github. Desta forma é possivel termos um README padrão e pré customizado para os nossos repositórios
 
 ## ⚙️ Tecnologias
 
