@@ -1,4 +1,6 @@
-<img style="align-content:center" src="assets_readme/logo-git.png" alt="Logo">
+<h1 style="align-content:center">
+<img src="assets_readme/logo-git.png" alt="Logo">
+</h1>
 
 # Template README para uso em repositórios do GitHub
 
@@ -52,15 +54,28 @@ Através dessa aplicação pratiquei mais sobre:
 - Prática em criação de landing pages
 - Uso de conventional commits
 
-## ⚙️ Techs:
+## ⚙️ Tecnologias
 
-- React
-- TypeScript
-- Styled Components
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
 ## ⛏ Ferramentas:
 
+Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
+
 - [Visual Studo Code](https://code.visualstudio.com/download)
+
+## 🤔 Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
 
 ## 🏁 Executar esse projeto:
 
