@@ -14,27 +14,27 @@ Template README para uso em repositórios do GitHub
 
 <div align="center">
 <a href="https://github.com/lucasomac">
-<img alt="Autor" src="https://img.shields.io/badge/autor-Lucas de Oliveira Macedo-E5F008?style=flat-square">
+<img alt="Autor" src="https://img.shields.io/badge/autor-Lucas de Oliveira Macedo-920629?style=flat-square">
 </a>
 
 <a href="#">
-<img alt="Linguagens" src="https://img.shields.io/github/languages/count/lucasomac/ReadmeTemplate?color=E5F008&style=flat-square">
+<img alt="Linguagens" src="https://img.shields.io/github/languages/count/lucasomac/ReadmeTemplate?color=920629&style=flat-square">
 </a>
 
 <a href="https://github.com/lucasomac/ReadmeTemplate/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/lucasomac/ReadmeTemplate?color=E5F008&style=flat-square">
+<img alt="Stars" src="https://img.shields.io/github/stars/lucasomac/ReadmeTemplate?color=920629&style=flat-square">
 </a>
 
 <a href="https://github.com/lucasomac/ReadmeTemplate/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/lucasomac/ReadmeTemplate?color=E5F008&style=flat-square">
+<img alt="Forks" src="https://img.shields.io/github/forks/lucasomac/ReadmeTemplate?color=920629&style=flat-square">
 </a>
 
 <a href="#">
-<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/repo-size/lucasomac/ReadmeTemplate?color=E5F008&style=flat-square">
+<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/repo-size/lucasomac/ReadmeTemplate?color=920629&style=flat-square">
 </a>
 
 <a href="https://github.com/lucasomac/ReadmeTemplate/commits/master">
-<img alt="Commits" src="https://img.shields.io/github/last-commit/lucasomac/ReadmeTemplate?color=E5F008&style=flat-square">
+<img alt="Commits" src="https://img.shields.io/github/last-commit/lucasomac/ReadmeTemplate?color=920629&style=flat-square">
 </a>
 </div>
 
@@ -87,13 +87,9 @@ De o clone no repositório:
 $ git clone https://github.com/lucasomac/ReadmeTemplate.git
 ```
 
-<br/>
-
-<h4 align="center">
-  Vamos compartilhar conhecimento e crescer juntos!!!
+<h4 align="center" >
+  Compartilhar conhecimento é sempre bom!!!
 </h4>
-
-<br/>
 
 ---
 
