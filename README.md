@@ -5,11 +5,12 @@
 Template README para uso em repositórios do GitHub
 </h1>
 <p align="center">
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
+  <a href="#-projeto">Projeto</a> | 
+  <a href="#-tecnologias">Tecnologias</a> | 
+  <a href="#-ferramentas">Ferramentas</a> | 
+  <a href="#-como-contribuir">Como contribuir</a> | 
+  <a href="#-executar-esse-projeto">Como contribuir</a> | 
+  <a href="#-licença">Licença</a>
 </p>
 
 <div align="center">
@@ -53,7 +54,7 @@ Template README para uso em repositórios do GitHub
 
 Este projeto foi desenvolvido com o intuito de ajudar no momento de criação do arquivo README para repositórios no Github. Desta forma é possivel termos um README padrão e pré customizado para os nossos repositórios
 
-## ⚙️ Tecnologias
+## ⚙ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
