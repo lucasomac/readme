@@ -3,14 +3,13 @@
 </h1>
 
 # Template README para uso em repositórios do GitHub
-<p style="horiz-align:center">
+<p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-> Aqui deve ser descrito rapidamente de onde veio o projeto e linkar de onde o mesmo veio <a href="#">clique aqui</a>.
 
 <div style="display:flex">
 <a href="https://github.com/lucasomac">
