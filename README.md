@@ -29,7 +29,7 @@
 </a>
 
 <a href="#">
-<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/languages/code-size/lucasomac/ReadmeTemplate?color=7159c1&style=flat-square">
+<img alt="Tamanho do repositório" src="https://img.shields.io/github/languages/repo-size/lucasomac/ReadmeTemplate?color=7159c1&style=flat-square">
 </a>
 
 <a href="https://github.com/lucasomac/ReadmeTemplate/commits/master">
@@ -61,7 +61,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 
-- [Visual Studo Code](https://code.visualstudio.com/download)
+- [Visual Studio](https://visualstudio.microsoft.com/vs/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Android Studio](https://developer.android.com/studio)
+- [WebStorm](https://www.jetbrains.com/pt-br/webstorm/)
+- [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
+- [DataGrip](https://www.jetbrains.com/pt-br/datagrip/)
+- [IntelliJIDEA](https://www.jetbrains.com/pt-br/idea/)
 
 ## 🤔 Como contribuir
 
