@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="git" title="git" src="assets_readme/github.png" width="220px" />
+    <img alt="git" title="git" src="assets_readme/logo.png" width="220px" />
 </h1>
 
 # Template README para uso em repositórios do GitHub
