@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src="assets_readme/logo-git.png" width="220px" />
+    <img alt="git" title="git" src="assets_readme/github.png" width="220px" />
 </h1>
 
 # Template README para uso em repositórios do GitHub
-<p style="align-content:center">
+<p style="horiz-align:center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
