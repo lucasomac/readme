@@ -90,8 +90,8 @@ clone no repositório:
 $ git clone https://github.com/lucasomac/ReadmeTemplate.git
 ```
 #### ⚒ Back-End
-Run ```yarn install``` in the server folder;
-Run ```yarn run server``` to up the server;
+Run ```node yarn install``` in the server folder;
+Run ```node yarn run server``` to up the server;
 Open Insomnia or Postman and import the Insomnia.json workspace file at backend folder.
 
 #### 🌐 Front-End
@@ -121,16 +121,9 @@ Autor: <a alt="Lucas de Oliveira Macedo" href="https://github.com/lucasomac">Luc
   <a alt="Lucas de Oliveira Macedo Linkedin" href="https://www.linkedin.com/in/lucasomac/">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas de Oliveira Macedo-blue?logo=linkedin"/>
   </a>
-  <a alt="Lucas de Oliveira Macedo GitHub" href="https://github.com/lucasomac">
-  <img src="https://img.shields.io/badge/GitHub-lucasomac-lightgrey?logo=github"/>
-  </a>
- <a alt="Lucas de Oliveira Macedo Twitter" href="">
-  <img src=""/>
- </a>
-
  
 [![]()]()
-[![]()]()
+[![Lucas Macedo Github](https://img.shields.io/badge/GitHub-lucasomac-lightgrey?logo=github)](https://github.com/lucasomac)
 [![Lucas Macedo Twitter](https://img.shields.io/badge/Twitter-_lucasomac-blue?logo=twitter "twitter")](https://twitter.com/lucasomac)
 [![Lucas Macedo Instagram](https://img.shields.io/badge/Instragram-lucasomac-E10979?logo=instagram "instagram")](https://instagram.com/lucasomac)
 [![Lucas Macedo Facebook](https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac)
