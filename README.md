@@ -118,7 +118,7 @@ Autor: <a alt="Lucas de Oliveira Macedo" href="https://github.com/lucasomac">Luc
 
 <div align="center">
 
-[![Lucas Macedo Linkedin](https://img.shields.io/badge/LinkedIn-Lucas de Oliveira Macedo-blue?logo=linkedin "linkedin")](https://www.linkedin.com/in/lucasomac)
+[![Lucas Macedo Linkedin](https://img.shields.io/badge/LinkedIn-lucasomac-blue?logo=linkedin "linkedin")](https://www.linkedin.com/in/lucasomac)
 [![Lucas Macedo Github](https://img.shields.io/badge/GitHub-lucasomac-lightgrey?logo=github "github")](https://github.com/lucasomac)
 [![Lucas Macedo Twitter](https://img.shields.io/badge/Twitter-_lucasomac-blue?logo=twitter "twitter")](https://twitter.com/lucasomac)
 [![Lucas Macedo Instagram](https://img.shields.io/badge/Instragram-lucasomac-E10979?logo=instagram "instagram")](https://instagram.com/lucasomac)
