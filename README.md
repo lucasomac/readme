@@ -127,9 +127,10 @@ Autor: <a alt="Lucas de Oliveira Macedo" href="https://github.com/lucasomac">Luc
  <a alt="Lucas de Oliveira Macedo Twitter" href="https://twitter.com/lucasomac">
   <img src="https://img.shields.io/badge/Twitter-_lucasomac-blue?logo=twitter"/>
  </a>
- <a alt="Lucas de Oliveira Macedo Instagram" href="https://instagram.com/lucasomac">
-  <img src="https://img.shields.io/badge/Instragram-lucasomac-E10979?logo=instagram"/>
+ <a alt="Lucas de Oliveira Macedo Instagram" href="">
+  <img src=""/>
  </a>
  
+[![Lucas Macedo Instagram](https://img.shields.io/badge/Instragram-lucasomac-E10979?logo=instagram "instagram")](https://instagram.com/lucasomac)
 [![Lucas Macedo Facebook](https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac)
 </div>
