@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img alt="git" title="git" src="assets_readme/logo.png" width="500px" />
-</h1>
+![github](assets/github.png "github")
 <h1 align="center">
 Template README para uso em repositórios do GitHub
 </h1>
@@ -132,8 +130,6 @@ Autor: <a alt="Lucas de Oliveira Macedo" href="https://github.com/lucasomac">Luc
  <a alt="Lucas de Oliveira Macedo Instagram" href="https://instagram.com/lucasomac">
   <img src="https://img.shields.io/badge/Instragram-lucasomac-E10979?logo=instagram"/>
  </a>
- <a alt="Lucas de Oliveira Macedo Instagram" href="https://facebook.com/lucasomac">
-  <img src="https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook&"/>
- </a>
-
+ 
+[![Lucas Macedo Facebook](https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac)
 </div>
