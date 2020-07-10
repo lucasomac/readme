@@ -113,7 +113,8 @@ Run ```expo start``` to up the project.
 ---
 
 <h3 align="center">
-Autor: <a alt="Lucas de Oliveira Macedo" href="https://github.com/lucasomac">Lucas de Oliveira Macedo</a>
+
+Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo")
 </h3>
 
 <div align="center">
