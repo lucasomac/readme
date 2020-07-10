@@ -107,7 +107,7 @@ Run ```expo start``` to up the project.
 
 
 <h4 align="center" >
-  Compartilhar conhecimento é sempre bom!!!
+  Somos o que fazemos para mudar o que fomos!
 </h4>
 
 ---
