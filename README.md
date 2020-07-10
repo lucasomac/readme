@@ -1,7 +1,12 @@
+<div>
+
 ![github](assets/github.png "github")
-<h1 align="center">
-Template README para uso em repositórios do GitHub
-</h1>
+</div>
+
+<div align="center">
+
+# README para uso em repositórios do GitHub
+</div>
 <p align="center">
   <a href="#-projeto">Projeto</a> | 
   <a href="#-tecnologias">Tecnologias</a> | 
