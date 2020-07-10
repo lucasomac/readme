@@ -17,33 +17,14 @@
 </p>
 
 <div align="center">
-<a href="https://github.com/lucasomac">
-<img alt="Autor" src="https://img.shields.io/badge/autor-Lucas de Oliveira Macedo-920629?style=flat-square">
-</a>
 
-<a href="#">
-<img alt="Linguagens" src="https://img.shields.io/github/languages/count/lucasomac/ReadmeTemplate?color=920629&style=flat-square">
-</a>
-
-<a href="https://github.com/lucasomac/ReadmeTemplate/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/lucasomac/ReadmeTemplate?color=920629&style=flat-square">
-</a>
-
-<a href="https://github.com/lucasomac/ReadmeTemplate/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/lucasomac/ReadmeTemplate?color=920629&style=flat-square">
-</a>
-
-<a href="#">
-<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/repo-size/lucasomac/ReadmeTemplate?color=920629&style=flat-square">
-</a>
-
-<a href="https://github.com/lucasomac/ReadmeTemplate/commits/master">
-<img alt="Commits" src="https://img.shields.io/github/last-commit/lucasomac/ReadmeTemplate?color=920629&style=flat-square">
-</a>
-<a href="https://github.com/lucasomac/ReadmeTemplate/releases">
-<img alt="Commits" src="https://img.shields.io/github/downloads/lucasomac/ReadmeTemplate/total?color=920629&style=flat-square">
-</a>
-
+[![Autor](https://img.shields.io/badge/autor-Lucas%20de%20Oliveira%20Macedo-920629?style=flat-square)](https://github.com/lucasomac)
+![Linguagens](https://img.shields.io/github/languages/count/lucasomac/readme?color=920629&style=flat-square)
+[![Stars](https://img.shields.io/github/stars/lucasomac/readme?color=920629&style=flat-square)](https://github.com/lucasomac/readme/stargazers)
+[![Forks](https://img.shields.io/github/forks/lucasomac/readme?color=920629&style=flat-square)](https://github.com/lucasomac/readme/network/members)
+![Tamanho do código em bytes](https://img.shields.io/github/repo-size/lucasomac/readme?color=920629&style=flat-square)
+[![Last commit](https://img.shields.io/github/last-commit/lucasomac/readme?color=920629&style=flat-square)](https://github.com/lucasomac/readme/commits/master)
+[![Downloads](https://img.shields.io/github/downloads/lucasomac/readme/total?color=920629&style=flat-square)](https://github.com/lucasomac/readme/releases)
 </div>
 
 <br/><br/>
@@ -92,7 +73,7 @@ Para executar esse projeto em sua máquina,
 clone no repositório:
 
 ```bash
-$ git clone https://github.com/lucasomac/ReadmeTemplate.git
+$ git clone https://github.com/lucasomac/readme.git
 ```
 #### ⚒ Back-End
 Run ```node yarn install``` in the server folder;
@@ -129,5 +110,4 @@ Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveir
 [![Lucas Macedo Twitter](https://img.shields.io/badge/Twitter-_lucasomac-blue?logo=twitter "twitter")](https://twitter.com/lucasomac)
 [![Lucas Macedo Instagram](https://img.shields.io/badge/Instragram-lucasomac-E10979?logo=instagram "instagram")](https://instagram.com/lucasomac)
 [![Lucas Macedo Facebook](https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac)
-
 </div>
