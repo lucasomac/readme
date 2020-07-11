@@ -26,8 +26,8 @@
 [![Last commit](https://img.shields.io/github/last-commit/lucasomac/readme?color=920629&style=flat-square)](https://github.com/lucasomac/readme/commits/master)
 [![Downloads](https://img.shields.io/github/downloads/lucasomac/readme/total?color=920629&style=flat-square)](https://github.com/lucasomac/readme/releases)
 </div>
-
-<br/><br/>
+  
+  
 <p align="center">
   Template open-source, contribua você também 😃
 </p>
@@ -69,7 +69,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 
 ## 🏁 Executar esse projeto:
 
-Para executar esse projeto em sua máquina,
+Para executar esse projeto na sua máquina,
 clone no repositório:
 
 ```bash
