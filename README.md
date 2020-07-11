@@ -11,7 +11,7 @@
   [Projeto](#-projeto) | 
   [Tecnologias](#-tecnologias) | 
   [Ferramentas](#-ferramentas) | 
-  [Como contribuir](#contribuir) | 
+  [Como contribuir](#-como-contribuir) | 
   [Executar esse projeto](#-executar-esse-projeto) | 
   [Licença](#-licença)
 </div>
@@ -89,7 +89,10 @@ Run ```expo start``` to up the project.
 ## 📜 Licença:
 
 
-<h4 align="center">Somos o que fazemos para mudar o que fomos!</h4>
+<div align="center"> 
+
+#### Somos o que fazemos para mudar o que fomos!
+</div>
 
 ---
 
@@ -103,6 +106,4 @@ Run ```expo start``` to up the project.
 [![Lucas Macedo Github](https://img.shields.io/badge/GitHub-lucasomac-lightgrey?logo=github "github")](https://github.com/lucasomac)
 [![Lucas Macedo Twitter](https://img.shields.io/badge/Twitter-_lucasomac-blue?logo=twitter "twitter")](https://twitter.com/lucasomac)
 [![Lucas Macedo Instagram](https://img.shields.io/badge/Instragram-lucasomac-E10979?logo=instagram "instagram")](https://instagram.com/lucasomac)
-[![Lucas Macedo Facebook](https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac)
-
-</div>
+[![Lucas Macedo Facebook](https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac) </div>
