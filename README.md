@@ -26,13 +26,10 @@
 [![Last commit](https://img.shields.io/github/last-commit/lucasomac/readme?color=920629&style=flat-square)](https://github.com/lucasomac/readme/commits/master)
 [![Downloads](https://img.shields.io/github/downloads/lucasomac/readme/total?color=920629&style=flat-square)](https://github.com/lucasomac/readme/releases)
 </div>
-  
-  
+
 <p align="center">
   Template open-source, contribua você também 😃
 </p>
-
-<hr/>
 
 ## 💻 Projeto
 
@@ -96,7 +93,7 @@ Run ```expo start``` to up the project.
 
 ---
 
-<h3 align="center">Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo")</h3>
+<h3 align="center">Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo") </h3>
 
 <div align="center">
 
