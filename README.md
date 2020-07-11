@@ -8,7 +8,7 @@
 # README para uso em repositórios do GitHub</div>
 <p align="center">
 
-  [Projeto](#-projeto") | 
+  [Projeto](#-projeto) | 
   [Tecnologias](#-tecnologias) | 
   [Ferramentas](#-ferramentas) | 
   [Como contribuir](#-como-contribuir) | 
