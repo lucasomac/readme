@@ -12,7 +12,7 @@
   [Tecnologias](#-tecnologias) | 
   [Ferramentas](#-ferramentas) | 
   [Como contribuir](#-como-contribuir) | 
-  [Executar esse projeto](-executar-esse-projeto) | 
+  [Executar esse projeto](#executar-esse-projeto) | 
   [Licença](#-licença)
 </p>
 
