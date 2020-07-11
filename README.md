@@ -11,7 +11,7 @@
   [Projeto](#-projeto) | 
   [Tecnologias](#-tecnologias) | 
   [Ferramentas](#-ferramentas) | 
-  [Como contribuir](#-como-contribuir) | 
+  [Como contribuir](#contribuir) | 
   [Executar esse projeto](#-executar-esse-projeto) | 
   [Licença](#-licença)
 </div>
@@ -56,7 +56,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [DataGrip](https://www.jetbrains.com/pt-br/datagrip/)
 - [IntelliJIDEA](https://www.jetbrains.com/pt-br/idea/)
 
-## 🤔 Como contribuir
+## 🤔 Como contribuir {#contribuir}
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
@@ -93,7 +93,9 @@ Run ```expo start``` to up the project.
 
 ---
 
-<h3 align="center">Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo") </h3>
+<div align="center"> 
+
+### *Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo")* </div>
 
 <div align="center">
 
