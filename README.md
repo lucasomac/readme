@@ -6,15 +6,15 @@
 <div align="center">
 
 # README para uso em repositórios do GitHub</div>
-<p align="center">
+<div align="center">
 
   [Projeto](#-projeto) | 
   [Tecnologias](#-tecnologias) | 
   [Ferramentas](#-ferramentas) | 
   [Como contribuir](#-como-contribuir) | 
-  [Executar esse projeto](#executar-esse-projeto) | 
+  [Executar esse projeto](#-executar-esse-projeto) | 
   [Licença](#-licença)
-</p>
+</div>
 
 <div align="center">
 
