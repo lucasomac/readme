@@ -5,15 +5,15 @@
 
 <div align="center">
 
-# README para uso em repositórios do GitHub
-</div>
+# README para uso em repositórios do GitHub</div>
 <p align="center">
-  <a href="#-projeto">Projeto</a> | 
-  <a href="#-tecnologias">Tecnologias</a> | 
-  <a href="#-ferramentas">Ferramentas</a> | 
-  <a href="#-como-contribuir">Como contribuir</a> | 
-  <a href="#-executar-esse-projeto">Executar esse projeto</a> | 
-  <a href="#-licença">Licença</a>
+
+  [Projeto](#-projeto") | 
+  [Tecnologias](#-tecnologias) | 
+  [Ferramentas](#-ferramentas) | 
+  [Como contribuir](#-como-contribuir) | 
+  [Executar esse projeto](-executar-esse-projeto) | 
+  [Licença](#-licença)
 </p>
 
 <div align="center">
@@ -76,8 +76,8 @@ clone no repositório:
 $ git clone https://github.com/lucasomac/readme.git
 ```
 #### ⚒ Back-End
-Run ```node yarn install``` in the server folder;
-Run ```node yarn run server``` to up the server;
+Run ```yarn install``` in the server folder;
+Run ```yarn run server``` to up the server;
 Open Insomnia or Postman and import the Insomnia.json workspace file at backend folder.
 
 #### 🌐 Front-End
@@ -92,16 +92,11 @@ Run ```expo start``` to up the project.
 ## 📜 Licença:
 
 
-<h4 align="center" >
-  Somos o que fazemos para mudar o que fomos!
-</h4>
+<h4 align="center">Somos o que fazemos para mudar o que fomos!</h4>
 
 ---
 
-<h3 align="center">
-
-Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo")
-</h3>
+<h3 align="center">Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo")</h3>
 
 <div align="center">
 
@@ -110,4 +105,5 @@ Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveir
 [![Lucas Macedo Twitter](https://img.shields.io/badge/Twitter-_lucasomac-blue?logo=twitter "twitter")](https://twitter.com/lucasomac)
 [![Lucas Macedo Instagram](https://img.shields.io/badge/Instragram-lucasomac-E10979?logo=instagram "instagram")](https://instagram.com/lucasomac)
 [![Lucas Macedo Facebook](https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac)
+
 </div>
