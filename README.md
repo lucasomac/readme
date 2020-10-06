@@ -5,7 +5,9 @@
 
 <div align="center">
 
-# README para uso em repositórios do GitHub</div>
+# Readme template para repositórios do GitHub
+
+</div>
 <div align="center">
 
   [Projeto](#-projeto) | 
@@ -14,6 +16,7 @@
   [Como contribuir](#-como-contribuir) | 
   [Executar esse projeto](#-executar-esse-projeto) | 
   [Licença](#-licença)
+  
 </div>
 
 <div align="center">
@@ -25,15 +28,12 @@
 ![Tamanho do código em bytes](https://img.shields.io/github/repo-size/lucasomac/readme?color=920629&style=flat-square)
 [![Last commit](https://img.shields.io/github/last-commit/lucasomac/readme?color=920629&style=flat-square)](https://github.com/lucasomac/readme/commits/master)
 [![Downloads](https://img.shields.io/github/downloads/lucasomac/readme/total?color=920629&style=flat-square)](https://github.com/lucasomac/readme/releases)
-</div>
 
-<p align="center">
-  Template open-source, contribua você também 😃
-</p>
+</div>
 
 ## 💻 Projeto
 
-Este projeto foi desenvolvido para servir de template para criação de repositórios no Github. Desta forma é possivel termos um README padrão e pré customizado para os nossos repositórios
+Este projeto foi desenvolvido para servir de template para criação de repositórios no Github. Desta forma é possivel termos um readme padrão e pré customizado para os nossos repositórios
 
 ## ⚙ Tecnologias
 
@@ -86,19 +86,23 @@ Run ```npm install``` in the mobile folder
 Update the baseURL at ```src/services/api.js```.
 Run ```expo start``` to up the project.
 
-## 📜 Licença:
+## 📜 [Licença](/LICENSE.md)
 
+---
 
 <div align="center"> 
 
 #### Somos o que fazemos para mudar o que fomos!
+
 </div>
 
 ---
 
 <div align="center"> 
 
-### *Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo")* </div>
+### *Autor: [Lucas de Oliveira Macedo](https://github.com/lucasomac "Lucas de Oliveira Macedo")*
+
+</div>
 
 <div align="center">
 
@@ -106,4 +110,6 @@ Run ```expo start``` to up the project.
 [![Lucas Macedo Github](https://img.shields.io/badge/GitHub-lucasomac-lightgrey?logo=github "github")](https://github.com/lucasomac)
 [![Lucas Macedo Twitter](https://img.shields.io/badge/Twitter-_lucasomac-blue?logo=twitter "twitter")](https://twitter.com/lucasomac)
 [![Lucas Macedo Instagram](https://img.shields.io/badge/Instragram-lucasomac-E10979?logo=instagram "instagram")](https://instagram.com/lucasomac)
-[![Lucas Macedo Facebook](https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac) </div>
+[![Lucas Macedo Facebook](https://img.shields.io/badge/Facebook-lucasomac-blue?logo=facebook "facebook")](https://facebook.com/lucasomac)
+
+</div>
