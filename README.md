@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Readme template para repositórios do GitHub
+# Readme template para projetos android do GitHub
 
 </div>
 <div align="center">
@@ -33,28 +33,23 @@
 
 ## 💻 Projeto
 
-Este projeto foi desenvolvido para servir de template para criação de repositórios no Github. Desta forma é possivel termos um readme padrão e pré customizado para os nossos repositórios
+Este projeto foi desenvolvido para servir de template para criação de repositórios android no Github. Desta forma é possivel termos um readme padrão e pré customizado para os nossos repositórios.
 
 ## ⚙ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [Android](https://www.android.com/intl/pt-BR_br/)
+- [Kotlin](https://kotlinlang.org/)
+- [Java](https://java.com/)
+- [Material Design](https://material.io)
 
 ## ⛏ Ferramentas:
 
 Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 
-- [Visual Studio](https://visualstudio.microsoft.com/vs/)
-- [Visual Studio Code](https://code.visualstudio.com/)
 - [Android Studio](https://developer.android.com/studio)
-- [WebStorm](https://www.jetbrains.com/pt-br/webstorm/)
-- [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
-- [DataGrip](https://www.jetbrains.com/pt-br/datagrip/)
-- [IntelliJIDEA](https://www.jetbrains.com/pt-br/idea/)
+- [Marvel App](http://marvelapp.com/)
 
 ## 🤔 Como contribuir {#contribuir}
 
@@ -72,19 +67,7 @@ clone no repositório:
 ```bash
 $ git clone https://github.com/lucasomac/readme.git
 ```
-#### ⚒ Back-End
-Run ```yarn install``` in the server folder;
-Run ```yarn run server``` to up the server;
-Open Insomnia or Postman and import the Insomnia.json workspace file at backend folder.
-
-#### 🌐 Front-End
-Run ```yarn install``` in the web folder;
-Run ```yarn start``` to up the project;
-
-#### 📲 Mobile
-Run ```npm install``` in the mobile folder
-Update the baseURL at ```src/services/api.js```.
-Run ```expo start``` to up the project.
+Abra o projeto com o Android Studio e acione o comando para executar em seu aparelho ou emullador android
 
 ## 📜 [Licença](/LICENSE.md)
 
